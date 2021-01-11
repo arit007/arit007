@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently working towards my BFA in Computer Game Design. 
+- 🤔 I’m currently learning Python, Java, HTML, and CSS.
