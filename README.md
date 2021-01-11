@@ -6,16 +6,16 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently working towards my BFA in Computer Game Design! 
+- 🌱 I’m currently working 
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m currently learning Python, Java, HTML, and CSS.
+- 🤔 I’m currently learning 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently working towards my BFA in Computer Game Design. 
+- 🌱 I’m currently working towards my BFA in Computer Game Design!
 - 🤔 I’m currently learning Python, Java, HTML, and CSS.
 
 ![Metrics](https://metrics.lecoq.io/arit007?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FNew_York)
