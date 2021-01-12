@@ -20,5 +20,3 @@ Here are some ideas to get you started:
 
 ![Metrics](https://metrics.lecoq.io/arit007?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FNew_York)
 
-
-![Metrics](https://github.com/arit007/arit007/blob/master/github-metrics.svg)
