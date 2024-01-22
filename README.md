@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently working towards my BFA in Computer Game Design!
-- 🤔 I’m currently learning C++, C#, Python, Java, HTML, and CSS.
+- 🤔 Actively learning C++, C#, Python, Java, HTML, and CSS.
 
 
 
