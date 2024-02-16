@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently working towards my BFA in Computer Game Design
 - 🎮 My work can be viewed at: https://www.aritorelli.art/
 - 🤔 Actively learning C#, C++, Python, Java
+- 👩‍💻 I enjoy going to hackathons: https://devpost.com/ariannat000
 - ⚡ Fun fact: **I love 3D Printing**
 
 <h3 align="left">Connect with me:</h3>
