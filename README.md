@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h3 align="center">Game Dev / Concept Artist / 3D Modeler</h3>
 
 - 🌱 I’m currently working towards my BFA in Computer Game Design
-- 🎮 My work can be viewed at: https://www.aritorelli.art/
+- 🎮 My work can be viewed at: https://www.aritorelli.art/ and https://www.artstation.com/ariannatorelli6
 - 🤔 Actively learning C#, C++, Python, Java
 - 👩‍💻 I enjoy going to hackathons: https://devpost.com/ariannat000
 - ⚡ Fun fact: **I love 3D Printing**
